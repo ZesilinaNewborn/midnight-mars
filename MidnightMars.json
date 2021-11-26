@@ -3,8 +3,8 @@
         "author": "ZesilinaNewborn#4800 + LuckFire#4800",
         "name": "Midnight Mars",
         "license": "MIT",
-        "version": "0.8",
-        "updater": "https:\/\/raw.githubusercontent.com\/ZesilinaNewborn\/midnight-mars\/main\/MidnightMars.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ZesilinaNewborn\/midnight-mars\/main\/MidnightMars.json",
+        "version": "1.0"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/913607906887336006\/913616104788742174\/Untitled-4.png"
@@ -30,10 +30,11 @@
         "uikit_btn_compound_color_selector_dark": -7775598,
         "primary_700": -250016224,
         "primary_630": -14279376,
-        "uikit_btn_compound_color_selector_light": -7775598
+        "uikit_btn_compound_color_selector_light": -7775598,
+        "primary_700_alpha_60": -7775598,
+        "uikit_settings_item_text_color_light": -7775598,
+        "brand_500_alpha_20": 609630299
     },
-    "drawable_tints": {
-        "drawable_tag_brand": -14303143
-    },
+    "drawable_tints": {},
     "raws": {}
 }
