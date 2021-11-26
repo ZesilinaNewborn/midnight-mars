@@ -23,7 +23,7 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 
 * First make sure that you the Themer plugin installed on Aliucord, 
 Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main/Themer.
-* Once Themer is installed , go to the releases tab in this github and download the latest **Midnight Mars.Json** file from that page.
+* Once Themer is installed, go to the releases tab in this github and download the latest **Midnight Mars.json** file from that page.
 * After it's downloaded, open a file manager of your choice and go to the downloads folder of your device, the json file that you downloaded here should be in that folder so go ahead and select it.
 * Once selected, simply copy it and locate the Aliucord folder (should be located in the same folder that your downloads folder), after you've found the Aliucord folder, open it and you should see a folder called "Themes", if you don't see one then create one with the exact name "Themes".
 * Paste the Json file you copied, into the Themes folder and it should be installed correctly.
