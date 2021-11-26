@@ -18,6 +18,7 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 * Now that it's installed, go to your Aliucord settings and open the settings page for the Themer plugin located in the Plugins menu, once you are in the Themer menu you can scroll all the way down and enable the Theme
 * Now Enjoy!!
 
+
 **Aliucord Manual Install:**
 
 * First make sure that you the Themer plugin installed on Aliucord, 
