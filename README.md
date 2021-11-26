@@ -12,7 +12,7 @@ The PC version of the theme can be found here: https://github.com/LuckFire/midni
 **Aliucord Themer Install:**
 
 * First make sure that you have the Themer plugin installed on Aliucord, 
-Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main/Themer.
+Which can be found here: [Themer Plugin](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer).
 * Once Themer is installed, go to my post in the #Themes channel located in the official Aliucord discord server, Searching "Midnight Mars" in the channel is a good way to find it.
 * After you've found my post, simply press and hold on my message untill the menu pops up, next all you have to do is click the "Install Midnight Mars" button.
 * Now that it's installed, go to your Aliucord settings and open the settings page for the Themer plugin located in the Plugins menu, once you are in the Themer menu you can scroll all the way down and enable the Theme
