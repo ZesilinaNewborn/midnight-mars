@@ -9,7 +9,7 @@ The PC version of the theme can be found here: https://github.com/LuckFire/midni
 
 # Installation
 
-**Aliucord Themer Install**
+**Aliucord Themer Install:**
 
 * First make sure that you have the Themer plugin installed on Aliucord, 
 Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main/Themer.
@@ -18,7 +18,7 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 * Now that it's installed, go to your Aliucord settings and open the settings page for the Themer plugin located in the Plugins menu, once you are in the Themer menu you can scroll all the way down and enable the Theme
 * Now Enjoy!!
 
-**Aliucord Manual Install**
+**Aliucord Manual Install:**
 
 * First make sure that you the Themer plugin installed on Aliucord, 
 Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main/Themer.
