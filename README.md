@@ -32,3 +32,6 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 
 
 # Credits
+
+* ![LuckFire](https://github.com/LuckFire) - Making the original **Midnight Mars** Theme and allowing me to port it to Aliucord
+* ![Vendicated](https://github.com/Vendicated) - Making the Themer plugin and making it sorta simple to create themes inside Themer through a built in editor
