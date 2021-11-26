@@ -7,7 +7,7 @@ A simple yet pleasing deep purple theme inspired by **midnight** on **Mars**!
 This theme is a Aliucord port of LuckFire's Midnight Mars theme for Powercord/BetterDiscord,
 The PC version of the theme can be found here: https://github.com/LuckFire/midnight-mars
 
-**THIS THEME REQUIRES THE TRANSPARENCY MODE TO BE SET TO "CHAT & SETTINGS"**
+**Transparency mode needs to be set to "Chat & Settings" to work fully**
 
 # Installation
 
