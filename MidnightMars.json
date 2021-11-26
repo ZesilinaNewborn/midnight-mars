@@ -3,7 +3,8 @@
         "author": "ZesilinaNewborn#4800 + LuckFire#4800",
         "name": "Midnight Mars",
         "license": "MIT",
-        "version": "0.8"
+        "version": "0.8",
+        "updater": "https:\/\/raw.githubusercontent.com\/ZesilinaNewborn\/midnight-mars\/main\/MidnightMars.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/913607906887336006\/913616104788742174\/Untitled-4.png"
