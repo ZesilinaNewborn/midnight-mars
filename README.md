@@ -35,7 +35,8 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 
 # Known Issues
 
-* On some certainb devices, barely anything of the actual theme works (devices with this issue are currently unkown)
+* **On some certain devices, barely anything of the theme works** (Devices with this issue are unkown)
+
 
 # Credits
 
