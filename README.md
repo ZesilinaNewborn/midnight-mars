@@ -33,6 +33,9 @@ Which can be found here: https://github.com/Vendicated/AliucordPlugins/tree/main
 * Now that it's installed, go to your Aliucord settings and open the settings page for the Themer plugin located in the Plugins menu, once you are in the Themer menu you can scroll all the way down and enable the Theme
 * Now Enjoy!!
 
+# Known Issues
+
+* On some certainb devices, barely anything of the actual theme works (devices with this issue are currently unkown)
 
 # Credits
 
