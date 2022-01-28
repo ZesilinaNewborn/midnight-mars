@@ -10,6 +10,9 @@ The PC version of the theme can be found here: https://github.com/LuckFire/midni
 **Aliucord is required for this theme to work, get it here:** https://github.com/Aliucord/Aliucord  <br />
 **Transparency mode needs to be set to "Chat & Settings" to fully work**
 
+**To change the DM icon to the Midnight Mars logo, Install the HomeIconSwitcher plugin and set the icon to this link:**
+https://cdn.discordapp.com/attachments/554374236014379024/913701996404543488/midnight_mars_logo.png
+
 # Installation
 
 **Aliucord Themer Install:**
