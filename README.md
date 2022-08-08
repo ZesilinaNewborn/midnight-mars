@@ -1,3 +1,7 @@
+# Theme Discontinued due to Discord Rework
+
+
+
 
 # Midnight Mars
 A simple yet pleasing deep purple theme inspired by **midnight** on **Mars**!
